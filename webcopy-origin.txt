@@ -1,0 +1,440 @@
+Uri: https://china-cnc.ru/
+File Name: C:\Downloaded Web Sites\china-cnc.ru\index.htm
+Content Type: text/html
+
+Uri: https://china-cnc.ru/blog
+File Name: C:\Downloaded Web Sites\china-cnc.ru\blog.html
+Content Type: text/html
+
+Uri: https://china-cnc.ru/custom.css?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\custom.css
+Content Type: text/css
+
+Uri: https://china-cnc.ru/dmg-mori
+File Name: C:\Downloaded Web Sites\china-cnc.ru\dmg-mori.html
+Content Type: text/html
+
+Uri: https://china-cnc.ru/haas
+File Name: C:\Downloaded Web Sites\china-cnc.ru\haas.html
+Content Type: text/html
+
+Uri: https://china-cnc.ru/hision
+File Name: C:\Downloaded Web Sites\china-cnc.ru\hision.html
+Content Type: text/html
+
+Uri: https://china-cnc.ru/mazak
+File Name: C:\Downloaded Web Sites\china-cnc.ru\mazak.html
+Content Type: text/html
+
+Uri: https://china-cnc.ru/okuma
+File Name: C:\Downloaded Web Sites\china-cnc.ru\okuma.html
+Content Type: text/html
+
+Uri: https://china-cnc.ru/privacy
+File Name: C:\Downloaded Web Sites\china-cnc.ru\privacy.html
+Content Type: text/html
+
+Uri: https://china-cnc.ru/tilda-blocks-page24583593.min.css?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page24583593.min.css
+Content Type: text/css
+
+Uri: https://china-cnc.ru/tilda-blocks-page24583593.min.js?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page24583593.min.js
+Content Type: application/javascript
+
+Uri: https://china-cnc.ru/tilda-blocks-page24880765.min.css?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page24880765.min.css
+Content Type: text/css
+
+Uri: https://china-cnc.ru/tilda-blocks-page24880765.min.js?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page24880765.min.js
+Content Type: application/javascript
+
+Uri: https://china-cnc.ru/tilda-blocks-page30918139.min.css?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page30918139.min.css
+Content Type: text/css
+
+Uri: https://china-cnc.ru/tilda-blocks-page30918139.min.js?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page30918139.min.js
+Content Type: application/javascript
+
+Uri: https://china-cnc.ru/tilda-blocks-page31402930.min.css?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page31402930.min.css
+Content Type: text/css
+
+Uri: https://china-cnc.ru/tilda-blocks-page31402930.min.js?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page31402930.min.js
+Content Type: application/javascript
+
+Uri: https://china-cnc.ru/tilda-blocks-page31998830.min.css?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page31998830.min.css
+Content Type: text/css
+
+Uri: https://china-cnc.ru/tilda-blocks-page31998830.min.js?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page31998830.min.js
+Content Type: application/javascript
+
+Uri: https://china-cnc.ru/tilda-blocks-page32570716.min.css?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page32570716.min.css
+Content Type: text/css
+
+Uri: https://china-cnc.ru/tilda-blocks-page32570716.min.js?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page32570716.min.js
+Content Type: application/javascript
+
+Uri: https://china-cnc.ru/tilda-blocks-page32577635.min.css?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page32577635.min.css
+Content Type: text/css
+
+Uri: https://china-cnc.ru/tilda-blocks-page32577635.min.js?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page32577635.min.js
+Content Type: application/javascript
+
+Uri: https://china-cnc.ru/tilda-blocks-page32751814.min.css?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page32751814.min.css
+Content Type: text/css
+
+Uri: https://china-cnc.ru/tilda-blocks-page32751814.min.js?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page32751814.min.js
+Content Type: application/javascript
+
+Uri: https://china-cnc.ru/tilda-blocks-page32778673.min.css?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page32778673.min.css
+Content Type: text/css
+
+Uri: https://china-cnc.ru/tilda-blocks-page32778673.min.js?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page32778673.min.js
+Content Type: application/javascript
+
+Uri: https://china-cnc.ru/tilda-blocks-page32840474.min.css?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page32840474.min.css
+Content Type: text/css
+
+Uri: https://china-cnc.ru/tilda-blocks-page32840474.min.js?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page32840474.min.js
+Content Type: application/javascript
+
+Uri: https://china-cnc.ru/tilda-blocks-page36037607.min.css?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page36037607.min.css
+Content Type: text/css
+
+Uri: https://china-cnc.ru/tilda-blocks-page36037607.min.js?t=1699951654
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tilda-blocks-page36037607.min.js
+Content Type: application/javascript
+
+Uri: https://china-cnc.ru/tsugami
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tsugami.html
+Content Type: text/html
+
+Uri: https://china-cnc.ru/weida
+File Name: C:\Downloaded Web Sites\china-cnc.ru\weida.html
+Content Type: text/html
+
+Uri: https://china-cnc.ru/zmat
+File Name: C:\Downloaded Web Sites\china-cnc.ru\zmat.html
+Content Type: text/html
+
+Uri: https://mc.yandex.ru/watch/87022120
+File Name: C:\Downloaded Web Sites\china-cnc.ru\watch\87022120
+Content Type: image/gif
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/fonts-tildasans.css
+File Name: C:\Downloaded Web Sites\china-cnc.ru\css\fonts-tildasans.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/highlight.min.css
+File Name: C:\Downloaded Web Sites\china-cnc.ru\css\highlight.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\china-cnc.ru\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-catalog-1.1.min.css
+File Name: C:\Downloaded Web Sites\china-cnc.ru\css\tilda-catalog-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-feed-1.0.min.css
+File Name: C:\Downloaded Web Sites\china-cnc.ru\css\tilda-feed-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\china-cnc.ru\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\china-cnc.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-menusub-1.0.min.css
+File Name: C:\Downloaded Web Sites\china-cnc.ru\css\tilda-menusub-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\china-cnc.ru\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\china-cnc.ru\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-wishlist-1.0.min.css
+File Name: C:\Downloaded Web Sites\china-cnc.ru\css\tilda-wishlist-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\china-cnc.ru\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Black.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot?
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Black-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Black.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff2
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Black.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Bold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot?
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Bold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff2
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Extrabold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot?
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Extrabold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Extrabold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff2
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Extrabold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Light.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot?
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Light-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Light.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff2
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Light.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Medium.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot?
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Medium-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff2
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Regular.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot?
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Regular-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff2
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Semibold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot?
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Semibold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Semibold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff2
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-Semibold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-VF.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff2
+File Name: C:\Downloaded Web Sites\china-cnc.ru\fonts\tildasans\TildaSans-VF.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/highlight.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\highlight.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-catalog-1.1.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-catalog-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-feed-1.0.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-feed-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menusub-1.0.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-menusub-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-popup-1.0.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-popup-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-products-1.0.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-products-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-skiplink-1.0.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-skiplink-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-wishlist-1.0.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-wishlist-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-zero-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\china-cnc.ru\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3137-3764-4462-a535-356132613534/-/resize/20x/bg-min.jpg
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tild3137-3764-4462-a535-356132613534\-\resize\20x\bg-min.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3232-6538-4433-a431-623135343965/-/resize/20x/bg-min.jpg
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tild3232-6538-4433-a431-623135343965\-\resize\20x\bg-min.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3236-3062-4536-a163-616363393532/favicon.ico
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tild3236-3062-4536-a163-616363393532\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild3631-3362-4336-b564-643434313730/-/resize/20x/okuma-bg-min.jpg
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tild3631-3362-4336-b564-643434313730\-\resize\20x\okuma-bg-min.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3963-3464-4133-b833-323761313736/-/resize/20x/bg-min.jpg
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tild3963-3464-4133-b833-323761313736\-\resize\20x\bg-min.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3964-6533-4139-b630-633063343066/-/resize/20x/mazak-bg-min.jpg
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tild3964-6533-4139-b630-633063343066\-\resize\20x\mazak-bg-min.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6163-3263-4139-b534-633363323734/favicon-152.png
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tild6163-3263-4139-b534-633363323734\favicon-152.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6262-6364-4362-a663-303461303765/-/resize/20x/bg-min.jpg
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tild6262-6364-4362-a663-303461303765\-\resize\20x\bg-min.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6266-3030-4565-a533-626135643066/-/resize/20x/bg-min.jpg
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tild6266-3030-4565-a533-626135643066\-\resize\20x\bg-min.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6366-3530-4230-a536-653932653733/-/resize/20x/tsugami-bg-min.jpg
+File Name: C:\Downloaded Web Sites\china-cnc.ru\tild6366-3530-4230-a536-653932653733\-\resize\20x\tsugami-bg-min.jpg
+Content Type: image/jpeg
+
